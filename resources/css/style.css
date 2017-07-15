@@ -2,7 +2,47 @@ element.style{
 
 }
 
+body {
+  background-color:black;
+}
+
 h1 {
-  font-family: Helvetica;
-  color: red;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+}
+
+.videoContainer {
+  text-align: center;
+}
+
+.phone{
+  text-align: center;
+}
+
+h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  font-align: center;
+}
+
+h4{
+  font-align: right;
+  font-color: gray;
+}
+
+p {
+  font-family: Verdana;
+  text-align:right;
+  color: gray;
+  font-size: 21px;
 }
